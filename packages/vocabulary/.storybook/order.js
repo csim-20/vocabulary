@@ -3,6 +3,7 @@ const order = {
     'Introduction',
     'Overview',
     'Usage',
+    'Getting Started',
     'Contribution'
   ],
   'Tokens': [
